@@ -1,6 +1,6 @@
 ![Depicts a Neovim buffer filled with syntax highlighted FastBASIC code](FastBASIC_Neovim_Syntax_HL.png)
 
-# fastbasic_neovim_syntax
+# FastBASIC Neovim/Vim Syntax Highlighting Plugin
 FastBASIC syntax for Neovim
 
 This is a simple syntax highlighting plugin for Neovim and the Atari 8 bit
